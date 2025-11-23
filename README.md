@@ -17,7 +17,7 @@ A brief, one-to-two sentence description of your project and what it does.
 
 ## Installation
 
-*   you install this calculator from github.
+*   you install this calculator and it's history from github.
 
 ## Usage
 
