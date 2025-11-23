@@ -11,9 +11,9 @@ A brief, one-to-two sentence description of your project and what it does.
 
 ## Table of Contents
 
-*   [Installation]
-*   [Usage]
-*   [License]
+*   [Installation](#Installation)
+*   [Usage](#Usage)
+*   [License](#License)
 
 ## Installation
 
